@@ -30,9 +30,8 @@ This is a simple social media application built with Spring Boot, Hibernate, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/social-media-app.git
-   cd social-media-app
-
+   git clone  https://github.com/AsatryanA/ChatGPT-Task1-3.git
+    ```
 2. Configure PostgreSQL:
    - Create a database named `social_media_app`
    - Create a user with the username `postgres` and password `postgres`
